@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Meme</string>
+    <string name="memeOne">baby</string>
+    <string name="memeTwo">starwars</string>
+    <string name="memeThree">Git push</string>
+    <string name="memeFour">butts</string>
+    <string name="fragOne">fragmentOne</string>
+    <string name="fragTwo">fragmentTwo</string>
+</resources>

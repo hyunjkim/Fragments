@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:id="@+id/frag_layout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+<LinearLayout
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <Button
+        android:id="@+id/baby_btn"
+        android:text="@string/memeOne"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:onClick="onClick"/>
+    <Button
+        android:id="@+id/stars_btn"
+        android:text="@string/memeTwo"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:onClick="onClick"/>
+    <Button
+        android:id="@+id/gitpush_btn"
+        android:text="@string/memeThree"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="onClick"/>
+    <Button
+        android:id="@+id/butts_btn"
+        android:text="@string/memeFour"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="onClick"/>
+
+
+
+</LinearLayout>
+    </FrameLayout>
